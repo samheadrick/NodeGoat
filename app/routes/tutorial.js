@@ -11,7 +11,6 @@ router.get("/", (req, res) => {
         environmentalScripts
     });
 });
-
 const pages = [
     "a1",
     "a2",
